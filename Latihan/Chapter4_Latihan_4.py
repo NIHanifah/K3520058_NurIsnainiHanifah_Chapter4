@@ -8,4 +8,4 @@ waktuAB = jarakAB / kecepatanAB
 waktuBC = jarakBC / kecepatanBC
 totalWaktu = waktuAB + waktuBC + istirahat
 pukulSampai = totalWaktu + 6
-print ('Puku sampai di Kota C = ', round (pukulSampai, 2))
+print ('Pukul sampai di Kota C = ', round (pukulSampai, 2))
